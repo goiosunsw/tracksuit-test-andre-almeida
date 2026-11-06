@@ -1,0 +1,5852 @@
+[
+  {
+    "product_category":"Fast Casual Restaurants",
+    "broad_category":"Food & Beverage Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Meal Kit Subscriptions",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":3,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Meal Delivery",
+    "broad_category":"Food & Beverage Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Ready-made Meals",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Snackbars and other packaged snacks",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Vehicle Inspection Services",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Natural Health Supplements",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Hair Extensions and Accessories (FEMALE ONLY)",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Large Household Appliances",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Pet Food",
+    "broad_category":"Pets & Pet Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Landscaping Services",
+    "broad_category":"Home Services & Construction",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Rice Crackers",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Baby and Child Products",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Guided Holidays",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"\u0018Better for you\u0019 soft drinks",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Canned Tuna",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Cat Food",
+    "broad_category":"Pets & Pet Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Chips",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Property Finance & Analytics Website",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":2,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Chips, Crisps, Crackers",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Movie Theatres",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Ready-To-Drink Protein Shakes",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Pain Relief",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Dog Treats",
+    "broad_category":"Pets & Pet Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Savoury Packaged Snacks",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Premium Men's Underwear",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Fresh Coffee",
+    "broad_category":"Food & Beverage Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"daily",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"At home COVID-19 treatment",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"once_in_lifetime",
+    "usage_frequency":"once_in_lifetime",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Mortgages & Home Loans",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"once_in_lifetime",
+    "usage_frequency":"once_in_lifetime",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Book Retailer",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Digital Frames",
+    "broad_category":"Electronics & Technology",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":3
+  },
+  {
+    "product_category":"New Builds",
+    "broad_category":"Real Estate & Property",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"once_in_lifetime",
+    "usage_frequency":"permanently",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Lawyers\/Law Firms",
+    "broad_category":"Professional & Business Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"every_few_years",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Medicinal cannabis",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Men's Activewear",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Fragrances",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Deodorants & Body Sprays",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Shares, brokers, and trading apps\/website",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Temporary Tattoos",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"once_in_lifetime",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Eco Products",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Hair Styling Tools",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Vegetarian & Vegan Products",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Outdoor Pursuits Retailer",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Superannuation Funds",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"not_applicable",
+    "usage_frequency":"permanently",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Biscuits",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Footwear",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Residential Renovations Services",
+    "broad_category":"Home Services & Construction",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Cafe Non-dairy Milk",
+    "broad_category":"Food & Beverage Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"daily",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Car Modifications",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Health and wellbeing drinks",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Car Finance",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"monthly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Skincare",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Designer Women's Clothing",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"weekly",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Fuel Stations",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Luggage & Travel products",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"every_few_years",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Packaged Snacks",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Specialty Supermarkets",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Premium Supplements (Both Genders)",
+    "broad_category":"Health & Medical",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Butter",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Butter, Margarine & Oil-based Spreads",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Retirement Villages",
+    "broad_category":"Real Estate & Property",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"once_in_lifetime",
+    "usage_frequency":"permanently",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Baking Ingredients",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Personalized Gifts",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Homeware",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Smart watches and wearables",
+    "broad_category":"Electronics & Technology",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"daily",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Additional Residential Construction",
+    "broad_category":"Home Services & Construction",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Buy Now Pay Later (Gimmie)",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Pre-mixed cocktails",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Sports Goods Retailer",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Womens Clothing",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Air Conditioners",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"daily",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Storage Services",
+    "broad_category":"Home Services & Construction",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Dairy & Meat Alternatives",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Beds and Mattresses Retailer",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Physiotherapists",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Baby products",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Auto Glass Repair & Replacement Service",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Digital Cameras & Accessories",
+    "broad_category":"Electronics & Technology",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Headphones, speakers and other audio electronics",
+    "broad_category":"Electronics & Technology",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"In-store Charity Donations",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Water Toys and Pools",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Beauty From Within Vitamins & Supplements",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Outdoor Apparel",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Garden Care",
+    "broad_category":"Home Services & Construction",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Pop Music Artists",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Skincare (Female Only)",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Tile Retailers",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Fast Food",
+    "broad_category":"Food & Beverage Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Jewellery and Accessories",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"permanently",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Personal Loans Service",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Sweet Baked Goods",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Premium Men's Activewear",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"weekly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Attractions",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Canned Soup",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Hotels",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Kids\u2019 Packaged Snacks",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Chilled Packaged Snacks",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Chilled Fruit Juices",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Hormone Products\/Services (Female Only)",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Internet Safety Service",
+    "broad_category":"Electronics & Technology",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"permanently",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Car & Motorhome Rentals",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Hair Regrowth",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Men's Performance Wear",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Pre-made Meal Delivery Service",
+    "broad_category":"Food & Beverage Services",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":3,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Weight-loss (Both Genders)",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Secondhand Car Dealers",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Costumes & novelty apparel",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"In-Home Care",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"permanently",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Door\/Cabinetry Hardware",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":2
+  },
+  {
+    "product_category":"KiwiSaver",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"not_applicable",
+    "usage_frequency":"permanently",
+    "cost_tier":2
+  },
+  {
+    "product_category":"NFL Sponsors",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"not_applicable",
+    "usage_frequency":"not_applicable",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Oral Health Care",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Personalised Books",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Pet Care Services",
+    "broad_category":"Pets & Pet Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Beddings",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Clothing (Both Genders)",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Reusable Bottles",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Credit Cards",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"not_applicable",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Healthcare Membership Program",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"permanently",
+    "cost_tier":3
+  },
+  {
+    "product_category":"RV Rentals",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Online Gambling",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Hay Fever",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Fine Jewellery",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"weekly",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Smoothies and Juices",
+    "broad_category":"Food & Beverage Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"daily",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Healthy Snacks",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"several_times_a_day",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Hobby & Craft Retailer",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Power Banks",
+    "broad_category":"Electronics & Technology",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Bread",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"daily",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Caravan, Campervan & Motorhome Rentals",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"every_few_years",
+    "cost_tier":4
+  },
+  {
+    "product_category":"DIY Tools",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Facial Suncare Products",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Gel Nail Polish (Female Only)",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Social Media Platforms",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"not_applicable",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Speciality Cheese",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Peanut or Nut Butter",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Batteries",
+    "broad_category":"Electronics & Technology",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"monthly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Luxury Cruises",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":1,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"every_few_years",
+    "cost_tier":5
+  },
+  {
+    "product_category":"National Football League (NFL)",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Residential Construction",
+    "broad_category":"Home Services & Construction",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"once_in_lifetime",
+    "usage_frequency":"once_in_lifetime",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Eggs",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Luxury Leather Bags\/Accessories",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"weekly",
+    "cost_tier":5
+  },
+  {
+    "product_category":"New York News",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":3,
+    "purchase_frequency":"daily",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Cashback Platforms or Services",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"not_applicable",
+    "usage_frequency":"monthly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Floor Cleaning Appliances",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"weekly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Dark Spirits",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Internet Provider",
+    "broad_category":"Electronics & Technology",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"permanently",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Supermarkets",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Baby and Child Apparel",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Investment Apps\/Websites",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"not_applicable",
+    "usage_frequency":"monthly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Credit Checks",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Craft Cider",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Female Clothing (Black Pepper)",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"permanently",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Large Household Appliance Retailers",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Period Products",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Smoothie, Juice & Beverage Bars",
+    "broad_category":"Food & Beverage Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Charities (incl. engagement)",
+    "broad_category":"Professional & Business Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Underwear, socks, and basics",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"permanently",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Online Outlet Retailer",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Bakery Goods",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Virtual Reality Fitness",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Leafy Greens & Herbs",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Alcohol Free Spirits",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Money Transfer Services",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Exercise Equipment",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"weekly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Meal Kit Delivery Service",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":3,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Soups and broths",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Bathroom Retailers",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Short-term Loans",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Sports Supplements",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Cryptocurrency Trading",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Credit Building Providers",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Group Fitness",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Pasta, noodles and grains",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Florists and Floral Delivery Services",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Hotels - Vegas",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Premium Memberships",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":true,
+    "is_subscription":true,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Umbrellas",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"yearly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Workplace Education",
+    "broad_category":"Professional & Business Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Adventure Holidays",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":4
+  },
+  {
+    "product_category":"New Utes\/SUVs",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Everyday Cheese",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Baby Feeding",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Funeral Services",
+    "broad_category":"Professional & Business Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"once_in_lifetime",
+    "usage_frequency":"once_in_lifetime",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Online Car Marketplace",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"every_few_years",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Online Female Fashion",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Luxury Real Estate Service",
+    "broad_category":"Real Estate & Property",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"every_few_years",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Haircare",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Adventure Sport Amusements",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Pre-made burgers\/patties",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Weight-loss (Female Only)",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Online Casinos",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Running Gear",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Motorbike Sports Apparel & Accessories",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"monthly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Bags & Purses",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"International Money Transfer Services",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Memory or Cognitive Products",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Reusable Drinkware",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Chocolate Biscuits",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Coffee Alternatives",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"International Cruises",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"every_few_years",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Sports Nutrition",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Timber, fencing or outdoor solutions",
+    "broad_category":"Home Services & Construction",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"every_few_years",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Sugar confectionery",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"At-Home Monitoring Devices",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Real Estate Agencies",
+    "broad_category":"Real Estate & Property",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"every_few_years",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Appearance Services",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Gifting Retailer",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Online Betting Services",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Payroll Software",
+    "broad_category":"Professional & Business Services",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":2,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"monthly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Bonding and Sealing",
+    "broad_category":"Home Services & Construction",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"every_few_years",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Natural Deodorant",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Tea",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Loans or Lending Services",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"monthly",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Dishwasher Products",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Car Listing Websites",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"every_few_years",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Paint, coatings, and wood-stains",
+    "broad_category":"Home Services & Construction",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"every_few_years",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Pet Oral Care",
+    "broad_category":"Pets & Pet Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Wealth Management",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"permanently",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Online Physical Health Services (Female Only)",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Sports beverages and powders",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Mobile Phone Services",
+    "broad_category":"Electronics & Technology",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":5,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Specialty fruit",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Big and Tall Men's Clothing",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Drink Mixers",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Makeup & Cosmetics",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Mouthwash",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Homeware Retailers",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Premium Toilet Paper",
+    "broad_category":"Food & Grocery",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Online Physical Health Services (Male Only)",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Men's Formal Footwear\/Dress Shoes",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"monthly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Salmon",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Furniture",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Life Insurance Providers",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":4,
+    "purchase_frequency":"once_in_lifetime",
+    "usage_frequency":"permanently",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Coffee",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Personal Banking",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"once_in_lifetime",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Roofing",
+    "broad_category":"Home Services & Construction",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"every_few_years",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Protein Bars",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Chicken Products",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Domestic Accommodation Services",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Swimming Pools",
+    "broad_category":"Home Services & Construction",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"once_in_lifetime",
+    "usage_frequency":"daily",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Streetwear (Brands & Retailers)",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Therapy Services",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Heating & Cooling Systems",
+    "broad_category":"Home Services & Construction",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Gambling",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Luxury Hotels",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Booking Software",
+    "broad_category":"Professional & Business Services",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Fresh Produce Box Delivery",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":3,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Premium Butter & Spreads",
+    "broad_category":"Food & Grocery",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Desserts",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Vitamins and Dietary Supplements",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"National Sports Leagues",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Air Fresheners & Home Fragrances",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Packaged Noodles",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Meat and Seafood",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Audio Content",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Frozen Oven Chips",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Mobile Gaming Accessories",
+    "broad_category":"Electronics & Technology",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Equipment Rental Services",
+    "broad_category":"Professional & Business Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Recruitment",
+    "broad_category":"Professional & Business Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Premium Wine",
+    "broad_category":"Food & Grocery",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Online Healthcare",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Water Sports Equipment & Accessories",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"yearly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Online Retailer",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Cafes",
+    "broad_category":"Food & Beverage Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"daily",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Online Mental Health Services",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Festivals",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Weight-loss drugs",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Job Listings Websites",
+    "broad_category":"Professional & Business Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Free-from Baked Goods",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Gaming PC\u00192s",
+    "broad_category":"Electronics & Technology",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"daily",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Dairy-free yoghurt",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Herbs, spices and seasonings",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Health Drinks",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Bathroom Repairs Service",
+    "broad_category":"Home Services & Construction",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Premium Red Meat",
+    "broad_category":"Food & Grocery",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Property Valuations & Estimates",
+    "broad_category":"Real Estate & Property",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Accounting Services (Sole Traders)",
+    "broad_category":"Professional & Business Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Lip Balm",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Entertainment and Events",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Antacids",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Self Tan (Female Only)",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Breakfast or Health Foods",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Men's Online Health Providers",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Dry Shampoo (Female Only)",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Premium Supplements (Female Only)",
+    "broad_category":"Health & Medical",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Streaming Services",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Blinds & Window Furnishings",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Loungewear",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"permanently",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Picture & Art Framing Services",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Furniture & Homeware",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Pet Care Retailer",
+    "broad_category":"Pets & Pet Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Health Insurance Comparison Websites",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Premium Women's Clothing",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"permanently",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Hats",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Eye Care",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Personal Lubrication",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Swimwear",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Luxury Hotels - Tasmania",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"every_few_years",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Utilities",
+    "broad_category":"Home Services & Construction",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"permanently",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Holiday Destinations",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Personal Computers",
+    "broad_category":"Electronics & Technology",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"daily",
+    "cost_tier":4
+  },
+  {
+    "product_category":"New Cars",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"daily",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Premium Haircare",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Auckland Malls",
+    "broad_category":"Real Estate & Property",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"not_applicable",
+    "usage_frequency":"monthly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Department Stores",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Fertility and Pregnancy Vitamins\/Supplements",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Virtual Assistants",
+    "broad_category":"Electronics & Technology",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"not_applicable",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Disability Services",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"not_applicable",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Yoghurt",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Gyms",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Carpets",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Tortilla wraps",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Nail Polish",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Energy Drinks",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Online Grocery Delivery",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Dental Flossing Products",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Pharmacy\/Chemist Retailers",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Nappies & wipes",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Cream Cheese",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Outdoor Pursuits Apparel",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Honey",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Children's Television",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"not_applicable",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"NBA Sponsors",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":1,
+    "purchase_frequency":"not_applicable",
+    "usage_frequency":"not_applicable",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Premium Women's Clothing (Female only)",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"weekly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Sportswear",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Bananas",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Indoor & Outdoor Cleaners",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Fresh Tomatoes",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"White Spirits",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Women's Shoes",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Prescription Eyewear",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Caps",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Kitchenware",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Hunting, shooting and fishing (Apparel and Equipment)",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Men's Clothing",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Frozen Asian Food",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Skincare (Both Genders)",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Tyre Services",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Takeaway Food Delivery",
+    "broad_category":"Food & Beverage Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Mortgage & Investing",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Automotive Care",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Online Packaged Holidays",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Flooring",
+    "broad_category":"Home Services & Construction",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Children's Toys and Puzzles",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Mid Priced Wine",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Children's Merchandise",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Online Health Services",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Shares, funds, and term deposits",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"permanently",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Weight-loss",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Sandals, flip-flops & open-toed footwear",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Personalised Photo Books",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"every_few_years",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Four-Wheel Drive Insurance",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":2,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Premium Skincare (Female only)",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Craft Beer Online Retailers",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Female Fashion",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Electronic Retailers",
+    "broad_category":"Electronics & Technology",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Domestic Airlines",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Female Skincare",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Chilled Desserts",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Underwear & Lingerie",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Premium Cat Food",
+    "broad_category":"Pets & Pet Care",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Family Services Charities",
+    "broad_category":"Professional & Business Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Gin",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Alcohol Free Beer",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Packaged Rice",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Artwork Retailers",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Roadside Assistance Membership",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"every_few_years",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Online Food Delivery",
+    "broad_category":"Food & Beverage Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Healthier Drinks",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Apples",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Premium Men's Clothing (Male Only)",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Domestic Holiday Destinations",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Flavoured Milk",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Ride-share service",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Car Rental",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"every_few_years",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Personalised Gifts",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"permanently",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Specialty Produce",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Online University Courses",
+    "broad_category":"Professional & Business Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Creative tools",
+    "broad_category":"Electronics & Technology",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Allergy Relief",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Hot Rotisserie Meats",
+    "broad_category":"Food & Beverage Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Currency Exchange Services",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"every_few_years",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Sports Merchandise",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Women\u0019s Major Sporting Events",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Hair Removal",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Men's Athleisure Wear",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Footwear Retailer",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Property Listing Websites",
+    "broad_category":"Real Estate & Property",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"monthly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Alcohol Free Drinks",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Managed Funds",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Health Insurance Providers",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"every_few_years",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Personal Care Products",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Premium haircare (Female Only)",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Charity Lotteries or Art Union",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Online Alcohol Retailers",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Packaged Nuts",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Car Subscriptions",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":2,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"permanently",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Breakfast Foods",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Household Cleaners (Indoor & Outdoor)",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Loyalty Programmes",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"not_applicable",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Fertility or IVF service",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"once_in_lifetime",
+    "usage_frequency":"once_in_lifetime",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Outerwear",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Wine",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Premium Breakfast Cereals",
+    "broad_category":"Food & Grocery",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Pet Care",
+    "broad_category":"Pets & Pet Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Outdoor Pursuits Footwear",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Home Improvement Retailer",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Women's Activewear (Female Only)",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Trade & Safety Footwear",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Custom Printed Products",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Luxury Fine Jewellery (Excl. Watches)",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":1,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Domestic Tourism - All NZ",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Theatre Ticket Platforms - London",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Fresh Milk (Dairy)",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Heating Systems",
+    "broad_category":"Home Services & Construction",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Packaged Baked Goods (Excl. Bread)",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Women\u2019s Clothing (Female Only)",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Vodka",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Coffee Machines",
+    "broad_category":"Electronics & Technology",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"daily",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Premium Sparkling Water",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Icecream or frozen desserts",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"EV Charging Stations",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Female Contraception, Fertility or Period Trackers (Female Only)",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Online Travel Booking",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Performing Arts",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Household Cleaners (Indoor)",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Nicotine Products",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"daily",
+    "usage_frequency":"several_times_a_day",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Extra-Curricular Organizations",
+    "broad_category":"Professional & Business Services",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Car Insurance",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":5,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Syrups and Sweetners",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Electronics Retailers",
+    "broad_category":"Electronics & Technology",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Flooring Retailers",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"every_few_years",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Humanitarian Charities",
+    "broad_category":"Professional & Business Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Body Care",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Domestic Tourism - North Island",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Men's Clothing (Male Only)",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"permanently",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Premium Hotels - Tasmania",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Dessert Cafes & Restaurants",
+    "broad_category":"Food & Beverage Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Bakeries",
+    "broad_category":"Food & Beverage Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"News or Media Sources",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Meal Kits & Meal Planning Services",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":3,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Garden Watering Systems",
+    "broad_category":"Home Services & Construction",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"daily",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Liquid Cooking Stock",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Soft drinks",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Airlines",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Fitness Services (Female Only)",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"M\u00101nuka Honey",
+    "broad_category":"Food & Grocery",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"weekly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Mattresses, beds, and pillows (Online Channel)",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Office & Stationery Supplies Retailer",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Bedding & Bathroom Textiles",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Children\u0019s Charities",
+    "broad_category":"Professional & Business Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Luxury Marketplace",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"every_few_years",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Streetwear",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Online Learning Platforms",
+    "broad_category":"Professional & Business Services",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Vision Support",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Retail Establishments",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Entertainment and Events (Attended Only)",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Dog Food",
+    "broad_category":"Pets & Pet Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Health & Beauty Retailers",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Baby & Child Products Retailer",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Fruit-Flavoured Alcoholic Drinks",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Hospitality Reward programs",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Advance Salary",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Imperfect Fruit and Vegetable Boxes",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Charities",
+    "broad_category":"Professional & Business Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Casual Footwear\/Sneakers",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Accommodation Services",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"General Insurance",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":5,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Ticket Platforms",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Lotteries",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Kids' Beverages",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Insurance",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":5,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Chocolate",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Socks",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Frozen Fruit",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Mattresses, beds, and pillows",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Baby & Toddler Food",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Fitness apps & services",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Beer",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Laundry Care",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Crumbs, Coatings and Sauces",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Deli \/ Pre-packaged meat",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Hot Tubs",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":1,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"weekly",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Female Clothing (Female Only)",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Commercial Property Investment",
+    "broad_category":"Real Estate & Property",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":1,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Luxury Tours",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"every_few_years",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Higher Education Institutions",
+    "broad_category":"Professional & Business Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"once_in_lifetime",
+    "usage_frequency":"once_in_lifetime",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Kitchenware Retailers",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Essential Oils",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Ski fields and services",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Premium Cookware",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"daily",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Whisky\/Bourbon",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Teeth Whitening",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Solar Energy Services",
+    "broad_category":"Home Services & Construction",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Designer Fashion",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Vocational Training",
+    "broad_category":"Professional & Business Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Chocolate bars and blocks",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Rural Services",
+    "broad_category":"Professional & Business Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":1,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Liquor Retailer",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Televisions",
+    "broad_category":"Electronics & Technology",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"daily",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Online Market Places",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Craft Beer",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Premium Fast Food",
+    "broad_category":"Food & Beverage Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Luxury Car Hire",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Financial News & Media Sources",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Red Meat",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Buy Now Pay Later Service",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Long-life Fruit Juices",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Non-Dairy Milk",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Theatre Ticket Platforms - New York",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Construction\/Building Hardware",
+    "broad_category":"Home Services & Construction",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Utility Vehicle Accessories",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Computer Repair Service",
+    "broad_category":"Electronics & Technology",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Car sunshades",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Mental Performance Supplements",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Vaping",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"several_times_a_day",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Asian Foods & Condiments",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Savoury Spreads",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Acne & Preventative Treatments",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Meat Alternatives",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Brand Health Trackers",
+    "broad_category":"Professional & Business Services",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":1,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"UK News",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"daily",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"New Electric Cars",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"daily",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Bathroom Fixtures & Furniture",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Men's Personal Care Products (Male Only)",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Car Dealership",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Insect Repellent",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Erectile Disfunction",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Secondhand Car Retailers",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Higher Education Websites",
+    "broad_category":"Professional & Business Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"once_in_lifetime",
+    "usage_frequency":"not_applicable",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Car Leasing & Finance Services",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":5
+  },
+  {
+    "product_category":"International Travel Bookings",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Massage, beauty and Wellness Services",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Dating Apps & Services",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Sunglasses",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Suncare",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Rugs",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Health Foods",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Event Listing Websites\/Apps",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Nutrition & Fitness Services",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":true,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Hormone Optimisation",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Premium Dog Food",
+    "broad_category":"Pets & Pet Care",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Fresh Meat & Poultry",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Experiences Retailer",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Primary & STEM Industries",
+    "broad_category":"Professional & Business Services",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":1,
+    "purchase_frequency":"not_applicable",
+    "usage_frequency":"not_applicable",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Health-Enhancing Supplements",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Amusements",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Real Estate Service",
+    "broad_category":"Real Estate & Property",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Australian News & Media Sources",
+    "broad_category":"Media, Entertainment & Leisure",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"International Airlines",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"every_few_years",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Cold & Flu Relief",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Domestic Transport",
+    "broad_category":"Automotive & Mobility",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"daily",
+    "usage_frequency":"daily",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Household Fixtures",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"permanently",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Men\u0019s Major Sporting Events",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Coupons, Discounts and Vouchers",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Laundry Stain Removers",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Activewear",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"weekly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Cat Treats",
+    "broad_category":"Pets & Pet Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Feminine Hygiene Products (Female Only)",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Solar Power",
+    "broad_category":"Home Services & Construction",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"once_in_lifetime",
+    "usage_frequency":"permanently",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Luxury Lodges",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Paint, Coatings, and Wood-Stains Retailers",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"every_few_years",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Travel Booking",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Domestic Tourism - South Island",
+    "broad_category":"Travel & Experiences",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Formal Footwear\/Dress Shoes",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Household Cleaners & Personal Care",
+    "broad_category":"Beauty & Personal Care",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Medical Research Organisations",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"not_applicable",
+    "usage_frequency":"not_applicable",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Wealth Management Service",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":true,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"permanently",
+    "cost_tier":5
+  },
+  {
+    "product_category":"Medical Diagnostic Services",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Children's Toys & Puzzles Retailers",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Water Toys",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Travel Insurance",
+    "broad_category":"Finance, Insurance & Payments",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"not_applicable",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Pest Control Products",
+    "broad_category":"Home & Furnishings",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Infant Formula\/Toddler Milk",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":2,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"daily",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Pre-mixed alcoholic drinks\/RTDs",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":2
+  },
+  {
+    "product_category":"Mental Health Services",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Health & Wellness Retailer",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"monthly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Sports and Nutrition Products",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Health Supplements",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Jeans",
+    "broad_category":"Fashion & Accessories",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"At-Home Fitness",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"yearly",
+    "usage_frequency":"daily",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Savoury Crackers",
+    "broad_category":"Food & Grocery",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":5,
+    "purchase_frequency":"weekly",
+    "usage_frequency":"weekly",
+    "cost_tier":1
+  },
+  {
+    "product_category":"Camping Equipments",
+    "broad_category":"Sports, Fitness & Outdoors",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":3,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"yearly",
+    "cost_tier":3
+  },
+  {
+    "product_category":"Eyewear & Eyecare Providers",
+    "broad_category":"Health & Medical",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"every_few_years",
+    "usage_frequency":"daily",
+    "cost_tier":4
+  },
+  {
+    "product_category":"Op-shops",
+    "broad_category":"Retail & Gifts",
+    "is_luxury":false,
+    "is_subscription":false,
+    "audience_breadth":4,
+    "purchase_frequency":"monthly",
+    "usage_frequency":"not_applicable",
+    "cost_tier":1
+  }
+]
